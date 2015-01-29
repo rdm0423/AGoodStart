@@ -20,6 +20,8 @@
     // Insert code here
     
     NSLog(@"Hello world");
+    NSLog(@"Ross");
+    
     
     return YES;
 }
